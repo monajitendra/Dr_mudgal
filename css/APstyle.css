@@ -2,6 +2,13 @@
 body {
 	font-family: 'Merriweather Sans', sans-serif !important;
 }
+
+
+.videos-in-home-page{
+	width:80% !important;
+	height:105px !important;
+}
+
 .specialitiesss img {
   width: 25px;
   margin-right: 10px;
@@ -1061,4 +1068,8 @@ margin-top:30px;
 .page-mt
 {
 	margin-top:-115px;
+}
+.videos-in-home-page{
+	width:60% !important;
+	height:90px !important;
 }
